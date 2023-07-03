@@ -1,0 +1,3 @@
+E-LIBRARY
+Welcome to e-Library portal !
+This platform lets you to perform operations on details of books and students registered here.
